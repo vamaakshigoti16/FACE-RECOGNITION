@@ -1,0 +1,19 @@
+#result_person_name
+{
+ color:aqua;
+ font-size: 30px;
+}
+#result_person_accuracy
+{
+ color:aqua;
+ font-size: 30px;
+}
+body
+{
+    background-color:blueviolet;
+}
+.name_of_persons
+{
+    color:aqua;
+    font-size: 30px;
+}
